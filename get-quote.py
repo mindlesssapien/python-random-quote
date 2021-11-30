@@ -6,5 +6,6 @@ def binary():
     #f.close()
     
     #print(quotes)
+    
 if __name__== "__main__":
     binary()
