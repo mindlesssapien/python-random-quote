@@ -7,5 +7,5 @@ def binary():
     
     #print(quotes)
     
-if __name__== "__main__":
+if__name__== "__main__":
     binary()
