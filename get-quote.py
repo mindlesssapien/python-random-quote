@@ -1,4 +1,4 @@
-def main():
+def binary():
     print("Keep it logically awesome.")
 
   #f = open("quotes.txt")
@@ -6,5 +6,5 @@ def main():
   #f.close()
 
   #print(quotes)
-#if __name__== "__main__":
-#main()
+    #if __name__== "__main__":
+binary()
